@@ -5,6 +5,8 @@ cd jsr-305-r49-mod
 svn up -r49
 rm -rf sampleUses
 ```
+Also adds a simple Gradle build to build a binary-only jar.
+Ideally the result will be similar to the version of jsr-305 at https://android.googlesource.com/platform/external/jsr305/+/66e84b9ff30de7c75b510cb9117205368cf5bd25
 
 No pull requests/issues/etc. will be applied to this repo.
 
